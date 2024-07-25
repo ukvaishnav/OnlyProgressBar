@@ -17,7 +17,7 @@ the following command:
 
 ```julia
 using Pkg
-Pkg.add("OnlyProgressBar")
+Pkg.add(url="https://github.com/ukvaishnav/OnlyProgressBar")
 ```
 
 ## Usage
